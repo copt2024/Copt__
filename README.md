@@ -1,4 +1,4 @@
-# Copt_Gaolab
+# Copt_
 
 ## **Overview**
 This project presents a **deep learning (DL) approach** to **codon optimization**, leveraging **recurrent neural networks (RNNs)** to enhance **tissue-specific protein expression**. Unlike traditional codon optimization tools that often fail to maximize protein translation efficiency, our method incorporates **cell-type-dependent codon biases**, leading to superior **recombinant protein expression** in heterologous systems.
