@@ -11,11 +11,11 @@ Existing **public codon optimization tools** may not always improve protein expr
 ## **Our Approach**
 To address these limitations, we developed an **AI-driven codon optimization model** trained on **gene expression data** from three mouse tissues:
 
-- 🧠 **Brain**
-- 🏥 **Liver**
-- 💪 **Muscle**
+- **Brain**
+- **Liver**
+- **Muscle**
 
-Additionally, we trained models for **human and mouse secretory proteins**, ensuring optimized expression in **heterologous systems** such as bacteria, yeast, and mammalian cells.
+Additionally, we trained models for **human and mouse secretory proteins**.
 
 ### **Key Features**
 - ✅ **Deep Learning-Powered** – Uses RNNs to capture tissue-specific codon biases.
