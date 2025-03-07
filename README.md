@@ -38,6 +38,6 @@ Additionally, we trained models for **human and mouse secretory proteins**.
 License
 This project is licensed under the MIT License – feel free to use, modify, and distribute it with proper attribution.
 
-Contributors
+Contributor:
 👤 Sandhiya Ravi – Postdoctoral Researcher & Developer
 
