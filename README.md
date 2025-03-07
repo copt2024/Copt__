@@ -18,15 +18,15 @@ To address these limitations, we developed an **AI-driven codon optimization mod
 Additionally, we trained models for **human and mouse secretory proteins**.
 
 ### **Key Features**
-- ✅ **Deep Learning-Powered** – Uses RNNs to capture tissue-specific codon biases.
-- ✅ **Tailored for Secretory Proteins** – Focuses on proteins crucial for **therapeutics, gene therapy, and vaccine manufacturing**.
-- ✅ **Enhanced Expression** – Tested on firefly luciferase, enhanced green fluorescent protein (eGFP), and Gaussia luciferase, achieving **higher expression** than commercially available tools.
-- ✅ **Validated in vitro** – Liver-trained models consistently outperformed other approaches.
+- **Deep Learning-Powered** – Uses RNNs to capture tissue-specific codon biases.
+- **Tailored for Secretory Proteins** – Focuses on proteins crucial for **therapeutics, gene therapy, and vaccine manufacturing**.
+- **Enhanced Expression** – Tested on firefly luciferase, enhanced green fluorescent protein (eGFP), and Gaussia luciferase, achieving **higher expression** than commercially available tools.
+- **Validated in vitro** – Liver-trained models consistently outperformed other approaches.
 
 ## **Applications**
-🚀 **Biopharmaceuticals & Gene Therapy** – Improves expression of therapeutic proteins.  
-🦠 **Vaccine Development** – Optimizes antigens for maximal yield in **expression systems**.  
-🔬 **Synthetic Biology** – Enhances recombinant protein production.  
+**Biopharmaceuticals & Gene Therapy** – Improves expression of therapeutic proteins.  
+**Vaccine Development** – Optimizes antigens for maximal yield in **expression systems**.  
+**Synthetic Biology** – Enhances recombinant protein production.  
 
 ## **How It Works**
 1. **Data Preparation** – Gene expression datasets from mouse and human tissues were used to determine optimal codon usage.
