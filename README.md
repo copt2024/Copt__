@@ -30,11 +30,6 @@ Additionally, we trained models for **human and mouse secretory proteins**.
 **Vaccine Development** – Optimizes antigens for maximal yield in **expression systems**.  
 **Synthetic Biology** – Enhances recombinant protein production.  
 
-## **How It Works**
-1. **Data Preparation** – Gene expression datasets from mouse and human tissues were used to determine optimal codon usage.
-2. **Model Training** – RNN-based deep learning models were trained on tissue-specific genes.
-3. **Codon Optimization** – The trained models generate optimized gene sequences tailored for specific tissues.
-4. **Experimental Validation** – Optimized sequences were tested for protein expression, showing superior results over existing tools.
 
 
 License
